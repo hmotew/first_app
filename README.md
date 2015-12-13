@@ -2,4 +2,4 @@
 
 This is the first application for the
 [*Ruby on Rails Tutorial*](http://railstutorial.org/)
-by [Henry Motewl](http://hmotew.com/).
+by [Henry Motew](http://hmotew.com/).
